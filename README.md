@@ -13,7 +13,7 @@ Os dados são processados utilizando PySpark, armazenados em tabelas Delta Lake 
 
 # Arquitetura do Pipeline
 
-!\[Arquitetura](images/arquitetura.png)
+![Arquitetura](images/arquitetura.png)
 
 \---
 
