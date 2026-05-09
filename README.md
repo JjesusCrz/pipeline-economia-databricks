@@ -247,8 +247,7 @@ Estudante e desenvolvedor focado em:
 
 
 
-
-Contexto Acadêmico
+# Contexto Acadêmico
 
 
 
